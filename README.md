@@ -19,7 +19,7 @@
 This application is a Java GUI implementation of Conway's Game of Life. To know more about this topic, please see [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page. Also, you can do as I did and get additional information by checking [John's](https://twitter.com/caveofjohn?lang=en) course on [Udemy](https://www.udemy.com/course/java-11-complete-beginners/).
 
 ## :hammer_and_wrench: Compiling:
-First, clone this repository and jump into the conwayGameOfLife folder.
+First, clone this repository and jump into the `conway-game-of-life` folder.
 
 ```sh
 $ git clone git@github.com:lobophf/conway-game-of-life.git 

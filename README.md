@@ -1,3 +1,4 @@
+<h1 align="center"> Conway's Game Of Life</h1>
 <p align="center">
     <img alt="Happy App into notebook" src="https://dl.dropboxusercontent.com/s/oxe1wjsjb2zloh5/gameOfLife.png?dl=0" height="380px">
     <br>

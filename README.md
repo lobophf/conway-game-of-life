@@ -28,7 +28,7 @@ Once you've done it, compile the code.
 $ javac -d build src/App.java src/gui/*.java src/model/*.java 
 ```
 ## :gear: Using:
-Stay in the conwayGameOfLife folder, and run the following command, including the classpath flag:
+Stay in the conwayGameOfLife folder, and run the following command, including the `classpath` flag:
 
 ```sh
 $ java -classpath build App

@@ -19,7 +19,7 @@ Conway's Game Of Life is a Java implementation that uses the Swing as a Graphica
 ## How Can I Contribute?
 ### Reporting bugs
 If you run into an error or bug with the project:
-* Open an issue at https://github.com/lobophf/conwayGameOfLife/issues
+* Open an issue at https://github.com/lobophf/conway-game-of-life/issues
 * Include reproduction steps that someone else can follow to recreate the bug or error on their own.
 * Provide details like operating system and compiler versions.
 

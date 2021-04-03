@@ -17,6 +17,7 @@ First off, thanks for your interest in contributing! I appreciate the contributi
 Conway's Game Of Life is a Java implementation that uses the Swing as a Graphical User Interface. This open-source project writes dead or live pixels on the screen, and after each grid update, its stages change, following some rules.    
 
 ## How Can I Contribute?
+If you haven't already done so, read the [Code of Conduct](./CODE_OF_CONDUCT.md).
 ### Reporting bugs
 If you run into an error or bug with the project:
 * Open an issue at https://github.com/lobophf/conway-game-of-life/issues

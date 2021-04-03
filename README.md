@@ -41,7 +41,7 @@ When a window appears, press `Enter` to add live cells at random places. Also, y
 I'm so glad when I see improvements done by other people. Feel free to contribute by opening pull requests with improvements, fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuff in [Contributing guide](./CONTRIBUTING.md).
 
 ## :star: Acknowledgments:
-Thanks to [@Jairo Silva](https://github.com/jairosilva2005) for helping me create the image of social media. 
+Thanks to [@Jairo Silva](https://github.com/jairosilva2005) for helping me to create the image of social media. 
 
 ## :balance_scale: License:
 This application is a MIT licensed, as found in the [LICENSE](./LICENSE) file.

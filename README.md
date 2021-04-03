@@ -10,6 +10,7 @@
     <a href="#computer-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#hammer_and_wrench-compiling">Compiling</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#gear-using">Using</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#star-acknowledgments">Acknowledgments</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#balance_scale-license">License</a>	
 </p>
 
@@ -34,6 +35,9 @@ Stay in the `conway-game-of-life` folder, and run the following command, includi
 $ java -classpath build App
 ```
 When a window appears, press `Enter` to add live cells at random places. Also, you can click on the cells to toggle its states. To clean up the grid, press `Backspace`.
+
+## :star: Acknowledgments:
+Thanks to [@Jairo Silva](https://github.com/jairosilva2005) for helping me create the image of social media. 
 
 ## :balance_scale: License:
 This application is a MIT licensed, as found in the [LICENSE](./LICENSE) file.

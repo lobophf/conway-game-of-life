@@ -23,3 +23,6 @@ Stay in the conwayGameOfLife folder, and run the following command, including th
 $ java -classpath build App
 ```
 When a window appears, press `Enter` to add live cells at random places. Also, you can click on the cells to toggle its states. To clean up the grid, press `Backspace`.
+
+## License:
+This application is a MIT licensed, as found in the [LICENSE](./LICENSE) file.

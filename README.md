@@ -10,6 +10,8 @@
     <a href="#computer-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#hammer_and_wrench-compiling">Compiling</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#gear-using">Using</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#octocat-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#star-acknowledgments">Acknowledgments</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#balance_scale-license">License</a>	
 </p>
 
@@ -17,7 +19,7 @@
 This application is a Java GUI implementation of Conway's Game of Life. To know more about this topic, please see [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) page. Also, you can do as I did and get additional information by checking [John's](https://twitter.com/caveofjohn?lang=en) course on [Udemy](https://www.udemy.com/course/java-11-complete-beginners/).
 
 ## :hammer_and_wrench: Compiling:
-First, clone this repository and jump into the conwayGameOfLife folder.
+First, clone this repository and jump into the `conway-game-of-life` folder.
 
 ```sh
 $ git clone git@github.com:lobophf/conway-game-of-life.git 
@@ -34,6 +36,12 @@ Stay in the `conway-game-of-life` folder, and run the following command, includi
 $ java -classpath build App
 ```
 When a window appears, press `Enter` to add live cells at random places. Also, you can click on the cells to toggle its states. To clean up the grid, press `Backspace`.
+
+## :octocat: Contributing:
+I'm so glad when I see improvements done by other people. Feel free to contribute by opening pull requests with improvements, fixing bugs or typing mistakes, or even open an issue to report errors. See some useful stuff in [Contributing guide](./CONTRIBUTING.md).
+
+## :star: Acknowledgments:
+Thanks to [@Jairo Silva](https://github.com/jairosilva2005) for helping me to create the image of social media. 
 
 ## :balance_scale: License:
 This application is a MIT licensed, as found in the [LICENSE](./LICENSE) file.

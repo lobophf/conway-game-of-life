@@ -1,5 +1,10 @@
 <p align="center">
-    <img alt="Happy App into notebook" src="https://dl.dropboxusercontent.com/s/oxe1wjsjb2zloh5/gameOfLife.png?dl=0" height="380px" />
+    <img alt="Happy App into notebook" src="https://dl.dropboxusercontent.com/s/oxe1wjsjb2zloh5/gameOfLife.png?dl=0" height="380px">
+    <br>
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lobophf/conwayGameOfLife">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Collab4Fun/SnakeGame.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lobophf/conwayGameOfLife">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> 
     <br>
     <a href="#computer-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#hammer_and_wrench-compiling">Compiling</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;

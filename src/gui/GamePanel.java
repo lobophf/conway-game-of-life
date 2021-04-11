@@ -8,7 +8,12 @@ import java.awt.event.MouseEvent;
 import javax.swing.JPanel;
 import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
+import java.io.File;
+import java.io.IOException;
+import javax.swing.JOptionPane;
+
 import model.World;
+import exception.MismatchedSizeException;
 
 public class GamePanel extends JPanel {
 	private static final long serialVersionUID = 1L;
@@ -109,6 +114,25 @@ public class GamePanel extends JPanel {
 	
 	public void next() {
 		world.next();
+		repaint();
+	}
+	
+	public void save(File selectedFile){
+		try{
+			world.save(selectedFile);
+		}catch(IOException e){
+			JOptionPane.showMessageDialog(this, "Cannot save selected file", "An error occorred", JOptionPane.ERROR_MESSAGE);
+		}
+	}
+
+	public void open(File selectedFile){
+		try{
+			world.load(selectedFile);
+		}catch(IOException e){
+			JOptionPane.showMessageDialog(this, "Cannot load selected file", "An error occorred", JOptionPane.ERROR_MESSAGE);
+		}catch(MismatchedSizeException e){
+			JOptionPane.showMessageDialog(this, "Loading grid size from a larger o smaller grid", "Warning", JOptionPane.WARNING_MESSAGE);
+		}
 		repaint();
 	}
 }

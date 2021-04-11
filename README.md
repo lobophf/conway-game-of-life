@@ -27,7 +27,7 @@ $ cd conway-game-of-life
 ```
 Once you've done it, compile the code.
 ```sh
-$ javac -d build src/App.java src/gui/*.java src/model/*.java 
+$ javac -d build src/App.java src/gui/*.java src/model/*.java src/exception/*.java
 ```
 ## :gear: Using:
 Stay in the `conway-game-of-life` folder, and run the following command, including the `classpath` flag:
